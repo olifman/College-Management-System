@@ -1,0 +1,9 @@
+# Ignore uploaded media and files
+uploads/materials/*
+uploads/submissions/*
+!uploads/materials/index.html
+!uploads/submissions/index.html
+
+# Ignore MacOS/Windows system files
+.DS_Store
+Thumbs.db
